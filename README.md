@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Matthew
-- 🔨 I’m building Integral and Kesyl
-- 📫 How to reach me: for now, don't.
+- 🔨 I’m building Kesyl
+- 📫 How to reach me: You must solve my ancient riddle.
