@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Matthew
+- 👋 Hi, I’m Matt
 - 🔨 I’m building Kesyl
 - 📫 How to reach me: You must solve my ancient riddle.
