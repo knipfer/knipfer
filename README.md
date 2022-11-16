@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Matt
-- 🔨 I’m building Kesyl
-- 📫 How to reach me: You must solve my ancient riddle.
+- 👋🏻 Hi, I’m Matt
+- 🔨 I'm a math guy fighting tooth and nail in a design world.
+- 📫 How to reach me: Please don't :D
