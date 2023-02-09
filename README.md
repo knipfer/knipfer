@@ -1,3 +1,3 @@
-- 👋🏻 Hi, I’m Matt
+- 👋🏻 Hi, I’m Matthew.
 - 🔨 I'm a math guy fighting tooth and nail in a design world.
 - 📫 How to reach me: Please don't :D
